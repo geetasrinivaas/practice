@@ -1,0 +1,16 @@
+Virtualization
+Bare-metal servers tend to perform faster than virtualized servers, which suffer from a reported 1-5% of CPU overhead and 5-10% of memory overhead on older hardware and 2-3% on newer hardware. This overhead can be accounted for when architecting an installation. Even with overhead, virtualization is the better option if scalability trumps performance or virtualization is being used for only certain components of a Jenkins installation.
+
+Containerization is an alternative approach to virtualization, such that the elimination of hardware virtualization layers and direct execution “on the metal” allow containers to be “light-weight” and not suffer from some of the performance issues of traditional VMs.
+
+ 
+
+Docker
+Docker is an open-source project that provides a platform for building and shipping applications using containers. This platform enables developers to easily create standardized environments that ensure that a testing environment is the same as the production environment, as well as providing a lightweight solution for virtualizing applications. Docker has inspired a wave of microservice architectures and is supported by tech giants like Google, Microsoft, IBM and Amazon.
+
+Docker Concepts
+Docker containers are lightweight runtime environments that consist of an application and its dependencies. These containers run “on the metal” of a machine, allowing them to avoid the 1-5% of CPU overhead and 5-10% of memory overhead associated with traditional virtualization technologies. They can also be created from a read-only template called a Docker image.
+
+Docker images can be created from an environment definition called a Dockerfile or from a running Docker container which has been committed as an image. Once a Docker image exists, it can be pushed to a registry like Docker Hub and a container can be created from that image, creating a runtime environment with a guaranteed set of tools and applications installed to it. Similarly, containers can be committed to images which are then committed to Docker Hub.
+8978792419
+

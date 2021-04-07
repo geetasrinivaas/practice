@@ -1,0 +1,42 @@
+WA0001,Kablosuz Cihaz Kurulum Sihirbazý
+WA0002,1.02
+WA0101,Lütfen bekleyin...
+WA0201,Yükleme onayý
+WA0202,Yükleme sýrasýnda, bilgisayarýnýz üzerindeki kablosuz ayarlarý veya kablosuz eriþim noktasý otomatik olarak algýlanýr. Kablosuz aygýtý kurumsal bir aða baðlamadan önce lütfen að yöneticisinden onay alýn.
+WA0203,Lütfen, sihirbazýn, cihazýnýza baðlanabilmek için kablosuz að ile olan baðlantýnýzý geçici olarak keseceðini unutmayýn.  Bu esnada, Ýnternet baðlantýsý dahil tüm að hizmetleriyle olan baðlantýnýz kesilir.
+WA0204,Kontrol edildi ve onaylandý
+WA0301,Bilgisayarýnýzdaki mevcut kablosuz að ayarlarýnýn algýlanmasý
+WA0302,Bilgisayarýnýzýn veya kablosuz eriþim noktanýzýn kablosuz að ayarlarý algýlandý.
+WA0303,Kablosuz að adý algýlandý (Kablosuz Eriþim Noktasý/Yönlendirici adý):
+WA0304,SSID:
+WA0305,Aygýtýn bu kablosuz aða baðlanmasýný istiyor musunuz?
+WA0306,Evet, aygýtýn bu kablosuz aða baðlanmasýný istiyorum.
+WA0307,Hayýr, aygýtýn baþka bir kablosuz aða baðlanmasýný istiyorum.
+WA0401,Kablosuz özelliðini etkinleþtir
+WA0402,Þimdi, aygýtýn kontrol panelini kullanarak cihazýn kablosuz að baðlantýsý özelliðini etkinleþtirmelisiniz. Bu iþlemi nasýl gerçekleþtireceðinizi anlatan baþka bir pencere açýlýr.
+WA0403,Cihaz üzerindeki kablosuz aðý etkinleþtirdiðinizde, bu sihirbaz kuruluma otomatik olarak devam eder.
+WA0404,(*) "Set Network Location" (Að Konumunu Ayarla) ekraný görüntülenirse, "Cancel" (Ýptal) öðesine týklayýn.
+WA0501,Ayarlar gönderiliyor......Lütfen bekleyin...
+WA0601,"Wireless Setup" (Kablosuz Kurulum) öðesinin baðlantý sonucunu kontrol edin
+WA0602,Cihaz tarafýndan "WLAN Report" (WLAN Raporu) sayfasý yazdýrýlýr. Sayfada <Connection> (Baðlantý) öðesini bulun ve baðlantý sonucunu doðrulamak için açýklamayý kontrol edin.
+WA0603,* Yazdýrma iþlemi 2 dakikaya kadar zaman alabilir.
+WA0604,Alttaki seçim listesinden sonucu seçin ve "Next" (Ýleri) öðesine týklayýn.
+WA0605,"Connection : OK"
+WA0606,"Connection : Failed"
+WA4001,Kurulumdan Çýkýn
+WA4002,Kurulum Tamamlanmadý.
+WA4003,Bu kurulum programýndan çýkarsanýz, kablosuz aygýt yapýlandýrýlmayacak.
+WA4004,Kurulum programýna devam etmek için, "Devam Et" öðesine týklayýn.
+WA4005,Kurulum programýndan çýkmak için, "Çýkýþ" öðesine týklayýn.
+WA5001,Aygýt bulunamadý
+WA5002,Ayný kurulum iþlemini kullanarak veya baþka bir yol ile tekrar denemek ister misiniz?
+WA5003,Yeniden Dene
+WA5004,Ayný kurulum iþlemi denemek istiyorsanýz, güvenlik duvarý gibi kurulum iþlemini engelleyebilecek güvenlik yazýlýmlarýný geçici olarak devre dýþý býrakmanýzý öneriyoruz.
+WA5005,Baþka bir yol dene
+WA5101,Baðlantý baþarýsýz oldu
+WA5102,Yükleme uygulamasý, baþka bir baðlantý yöntemini kullanabileceðiniz bazý seçenekler sunacak.  Devam etmek için "Next" (Ýleri) öðesine týklayýn.
+WA9901,< Geri
+WA9902,Ýptal
+WA9903,Ýleri>
+WA9904,Çýkýþ
+WA9905,Devam et
